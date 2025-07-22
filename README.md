@@ -23,10 +23,3 @@ Displays how the ages are distributed in the population.
 ### 2. Bar Chart - Gender Distribution
 Displays how many males and females are present.
 
-## 💡 Conclusion
-From the visualizations:
-- The most common age group is between XX–YY years.
-- There are more [Gender] than [Other Gender].
-
-This gives a quick overview of the data and helps in further analysis and machine learning tasks.
-
